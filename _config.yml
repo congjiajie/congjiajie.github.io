@@ -28,7 +28,7 @@ twitter_username: congjiajie
 github_username:  congjiajie
 
 # Build settings
-theme: jekyll-theme-clean-blog
+remote_theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
